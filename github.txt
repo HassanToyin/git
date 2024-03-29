@@ -1,0 +1,1 @@
+github is used for collaboration between developers and also for storing data in an orgainsed format which refer to the repository

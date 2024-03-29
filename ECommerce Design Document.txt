@@ -1,0 +1,6 @@
+E-Commerce Website - Statement of Work
+Written by Toyin at Septa
+
+
+This project involves a design and development of a new e-commerce platform for toyin_collection. The clients does not have a current sitethat client can order for their product.
+The new site is to establish an API whereby customers can order a product at easy and the can easy calculate custmers orderitem.
